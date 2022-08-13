@@ -1,0 +1,16 @@
+{
+  "name": "wl_tempur",
+  "version": "1.0.0",
+  "description": "WL tempur single wallet",
+  "main": "waitlist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Waitlist",
+    "node",
+    "wl"
+  ],
+  "author": "Dicky Fatma",
+  "license": "ISC"
+}
